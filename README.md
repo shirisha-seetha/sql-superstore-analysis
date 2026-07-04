@@ -2,7 +2,7 @@
 
 A SQL-based analysis of the Sample Superstore dataset, answering 40+ real-world business questions across sales, profit, customers, regions, products, shipping, and discounts. Built in Microsoft SQL Server (SSMS).
 
-This project uses the same dataset as my [PowerBI Superstore Dashboard](#) — this repo focuses on SQL querying and analysis, while the dashboard focuses on visualization.
+This project uses the same dataset as my [PowerBI Superstore Dashboard](https://github.com/shirisha-seetha/Superstore-Sales-Dashboard) — this repo focuses on SQL querying and analysis, while the dashboard focuses on visualization.
 
 ---
 
